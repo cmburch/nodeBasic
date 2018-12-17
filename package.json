@@ -19,5 +19,8 @@
   "homepage": "https://github.com/cmburch/nodeBasic#readme",
   "devDependencies": {
     "nodemon": "^1.18.9"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
   }
 }
